@@ -4,6 +4,18 @@
     <display-name lang="es">CHV HD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="TVN HD">
+    <display-name lang="es">TVN HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="MGA HD">
+    <display-name lang="es">MEGA HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CANAL 13 HD">
+    <display-name lang="es">CANAL 13 HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
   <programme start="20210729004500 -0400" stop="20210729013000 -0400" channel="CHV HD">
     <title lang="es">La divina comida</title>
   </programme>
@@ -36,5 +48,47 @@
   </programme>
   <programme start="20210729223000 -0400" stop="20210730010000 -0400" channel="CHV HD">
     <title lang="es">El Discipulo Del Chef</title>
+  </programme>
+  <programme start="20210729014500 -0400" stop="20210729023000 -0400" channel="TVN HD">
+    <title lang="es">Medianoche</title>
+  </programme>
+  <programme start="20210729023000 -0400" stop="20210729024500 -0400" channel="TVN HD">
+    <title lang="es">TV Tiempo</title>
+  </programme>
+  <programme start="20210729024500 -0400" stop="20210729060000 -0400" channel="TVN HD">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20210729060000 -0400" stop="20210729100000 -0400" channel="TVN HD">
+    <title lang="es">Juegos olímpicos Tokio 2020 AM</title>
+  </programme>
+  <programme start="20210729100000 -0400" stop="20210729130000 -0400" channel="TVN HD">
+    <title lang="es">Buenos Días a Todos</title>
+  </programme>
+  <programme start="20210729130000 -0400" stop="20210729152500 -0400" channel="TVN HD">
+    <title lang="es">24 Tarde</title>
+  </programme>
+  <programme start="20210729152500 -0400" stop="20210729163500 -0400" channel="TVN HD">
+    <title lang="es">Rompecorazón</title>
+  </programme>
+  <programme start="20210729163500 -0400" stop="20210729172000 -0400" channel="TVN HD">
+    <title lang="es">Romané</title>
+  </programme>
+  <programme start="20210729172000 -0400" stop="20210729184500 -0400" channel="TVN HD">
+    <title lang="es">Carmen Gloria a tu servicio</title>
+  </programme>
+  <programme start="20210729184500 -0400" stop="20210729191500 -0400" channel="TVN HD">
+    <title lang="es">Almas Heridas</title>
+  </programme>
+  <programme start="20210729191500 -0400" stop="20210729210000 -0400" channel="TVN HD">
+    <title lang="es">Juegos olímpicos Tokio 2020 PM</title>
+  </programme>
+  <programme start="20210729210000 -0400" stop="20210729223500 -0400" channel="TVN HD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210729223500 -0400" stop="20210729224000 -0400" channel="TVN HD">
+    <title lang="es">TV Tiempo</title>
+  </programme>
+  <programme start="20210729224000 -0400" stop="20210730020000 -0400" channel="TVN HD">
+    <title lang="es">Juegos olímpicos Tokio 2020 Prime</title>
   </programme>
 </tv>
