@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="CHV HD">
+    <display-name lang="es">CHV HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210729004500 -0400" stop="20210729013000 -0400" channel="CHV HD">
+    <title lang="es">La divina comida</title>
+  </programme>
+  <programme start="20210729013000 -0400" stop="20210729060000 -0400" channel="CHV HD">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20210729060000 -0400" stop="20210729063000 -0400" channel="CHV HD">
+    <title lang="es">Primera Página</title>
+  </programme>
+  <programme start="20210729063000 -0400" stop="20210729080000 -0400" channel="CHV HD">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210729080000 -0400" stop="20210729130000 -0400" channel="CHV HD">
+    <title lang="es">Contigo en la mañana</title>
+  </programme>
+  <programme start="20210729130000 -0400" stop="20210729153000 -0400" channel="CHV HD">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210729153000 -0400" stop="20210729170500 -0400" channel="CHV HD">
+    <title lang="es">Contigo en Directo</title>
+  </programme>
+  <programme start="20210729170500 -0400" stop="20210729181500 -0400" channel="CHV HD">
+    <title lang="es">El secreto de Feriha</title>
+  </programme>
+  <programme start="20210729181500 -0400" stop="20210729203000 -0400" channel="CHV HD">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20210729203000 -0400" stop="20210729223000 -0400" channel="CHV HD">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210729223000 -0400" stop="20210730010000 -0400" channel="CHV HD">
+    <title lang="es">El Discipulo Del Chef</title>
+  </programme>
+</tv>
